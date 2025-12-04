@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Infrastructure",
+            "pages": [
+              "nas-server"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
